@@ -1,7 +1,7 @@
 
 Future ATM Robbery
 
-This script is an ATM robbery script for use in the Grand Theft Auto V multiplayer mod, FiveM. It allows players to rob ATMs by holding a key near the ATM, triggering an animation and generating cash or black money.
+This script is an ATM robbery script for use in the Grand Theft Auto V multiplayer mod, FiveM. It allows players to rob ATMs by holding a key near the ATM, triggering an animation and giving them cash or dirty money.
 
 FEATURES
 
@@ -21,7 +21,7 @@ FEATURES
 
 - Ability to toggle cash as item instead of native qbcore cash
 
--- ability to choose where the money goes (cash or bank)
+- ability to choose where the money goes (cash or bank)
 
 - and more!
 
